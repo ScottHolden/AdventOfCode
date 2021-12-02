@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <Features>strict</Features>
+    <Nullable>enable</Nullable>
+    <NoWarn>NU1701</NoWarn>
+    <WarningLevel>5</WarningLevel>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+  </PropertyGroup>
+</Project>
